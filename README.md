@@ -1,0 +1,2 @@
+# JSCode
+JavaScript code
